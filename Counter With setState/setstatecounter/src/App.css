@@ -1,0 +1,35 @@
+.sayac{
+  font-size:50px;
+  margin-top:15%;
+  align-items: center;
+  text-align: center;
+}
+.buttonList{
+  display: flex;
+  justify-content: center;
+}
+button{
+  width:150px;
+  height:50px;
+  margin:100px 0 0 20px;
+  border: none;
+  border-radius:10px;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  -ms-border-radius:10px;
+  -o-border-radius:10px;
+  color: white;
+  font-size:20px;
+}
+
+.arttirButton button{
+  background-color:rgb(0, 218, 18);
+}
+
+.azaltButton button{
+  background-color:rgb(255, 0, 0);
+}
+
+.resetButton button{
+  background-color:blue;
+}
