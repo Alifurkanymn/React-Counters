@@ -1,1 +1,1 @@
-# React-Counters
+useReducer ve useState ile sayaç yapımı.
